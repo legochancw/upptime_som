@@ -5,17 +5,17 @@ repo: upptime_som # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com 
-  - name: [Production] EMAT Support
+  - name: Production - EMAT Support
     url: https://support.mattex.com.hk
-  - name: [Development] EMAT Support
+  - name: Development - EMAT Support
     url: https://dev-support.mattex.com.hk
-  - name: SOM
+  - name: SOM Web Portal
     url: https://som.mattex.com.hk
-  - name: SOM-API (Auth)
+  - name: SOM - API (Auth)
     url: https://api.fours.app/auth
-  - name: SOM-API (CIS-Project)
+  - name: SOM - API (CIS-Project)
     url: https://api.fours.app/cis/projects
-  - name: SOM-Konga
+  - name: SOM - Konga
     url: https://konga.fours.app
 
 status-website:
