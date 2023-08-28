@@ -16,6 +16,7 @@ sites:
     url: https://som.mattex.com.hk
   - name: SOM - API (Auth)
     url: https://api.fours.app/auth
+    __dangerous__body_down_if_text_missing: 'Ok.'
   - name: SOM - API (CIS-Project)
     url: https://api.fours.app/cis/projects
   - name: SOM - Konga
