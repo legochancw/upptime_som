@@ -6,8 +6,6 @@ assignees:
   - legochancw
 
 sites:
-  - name: Broken Test 2
-    url: https:/abc
   - name: Production - EMAT Support
     url: https://support.mattex.com.hk
   - name: Development - EMAT Support
