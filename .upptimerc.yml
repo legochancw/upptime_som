@@ -4,20 +4,22 @@ repo: upptime_som # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://www.google.com 
   - name: SOM
     url: https://som.mattex.com.hk
+  - name: SOM
+    url: https://som.mattex.com.hk
+  - name: SOM-API (Auth)
+    url: https://api.fours.app/auth
+  - name: SOM-API (CIS-Project)
+    url: https://api.fours.app/cis/projects
+  - name: Konga
+    url: https://konga.fours.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: upptime.fours.app
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
