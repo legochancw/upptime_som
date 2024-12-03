@@ -1,7 +1,7 @@
 url: https://api.fours.app/auth
-status: down
-code: 500
-responseTime: 650
-lastUpdated: 2024-12-03T23:41:49.185Z
+status: up
+code: 200
+responseTime: 612
+lastUpdated: 2024-12-03T23:51:36.385Z
 startTime: 2023-08-28T01:46:52.734Z
 generator: Upptime <https://github.com/upptime/upptime>
