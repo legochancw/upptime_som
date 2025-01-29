@@ -4,19 +4,19 @@
     "url": "https://support.mattex.com.hk",
     "icon": "https://icons.duckduckgo.com/ip3/support.mattex.com.hk.ico",
     "slug": "production-emat-support",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 466,
-    "timeDay": 360,
-    "timeWeek": 435,
-    "timeMonth": 390,
-    "timeYear": 443,
+    "timeDay": 317,
+    "timeWeek": 415,
+    "timeMonth": 387,
+    "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 22
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 1728,
     "timeYear": 1753,
     "dailyMinutesDown": {
-      "2025-01-29": 236,
+      "2025-01-29": 258,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2025-01-29": 236,
+      "2025-01-29": 258,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -822,7 +822,7 @@
     "timeMonth": 0,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2025-01-29": 236,
+      "2025-01-29": 258,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1199,14 +1199,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.38%",
+    "uptimeYear": "35.37%",
     "time": 838,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2025-01-29": 236,
+      "2025-01-29": 258,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
