@@ -4,18 +4,20 @@
     "url": "https://support.mattex.com.hk",
     "icon": "https://icons.duckduckgo.com/ip3/support.mattex.com.hk.ico",
     "slug": "production-emat-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
+    "time": 466,
     "timeDay": 360,
     "timeWeek": 435,
     "timeMonth": 390,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Development - EMAT Support",
@@ -52,7 +54,7 @@
     "timeMonth": 1728,
     "timeYear": 1753,
     "dailyMinutesDown": {
-      "2025-01-29": 67,
+      "2025-01-29": 236,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -436,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2025-01-29": 67,
+      "2025-01-29": 236,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -820,7 +822,7 @@
     "timeMonth": 0,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2025-01-29": 67,
+      "2025-01-29": 236,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1193,18 +1195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/konga.fours.app.ico",
     "slug": "som-konga",
     "status": "down",
-    "uptime": "54.65%",
+    "uptime": "54.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.41%",
+    "uptimeYear": "35.38%",
     "time": 838,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2025-01-29": 67,
+      "2025-01-29": 236,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
