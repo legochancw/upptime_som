@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.mattex.com.hk.ico",
     "slug": "production-emat-support",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.45%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.09%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "99.48%",
-    "time": 467,
-    "timeDay": 1187,
-    "timeWeek": 421,
-    "timeMonth": 390,
+    "uptimeWeek": "58.77%",
+    "uptimeMonth": "90.51%",
+    "uptimeYear": "99.21%",
+    "time": 466,
+    "timeDay": 326,
+    "timeWeek": 425,
+    "timeMonth": 391,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2025-01-31": 67,
+      "2025-02-01": 71,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1205
     }
@@ -33,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 435,
-    "timeDay": 413,
-    "timeWeek": 480,
-    "timeMonth": 360,
-    "timeYear": 431,
+    "timeDay": 433,
+    "timeWeek": 468,
+    "timeMonth": 359,
+    "timeYear": 430,
     "dailyMinutesDown": {}
   },
   {
@@ -45,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/som.mattex.com.hk.ico",
     "slug": "som-web-portal",
     "status": "up",
-    "uptime": "5.18%",
+    "uptime": "5.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1719,
-    "timeDay": 1905,
-    "timeWeek": 1619,
-    "timeMonth": 1725,
+    "timeDay": 1530,
+    "timeWeek": 1650,
+    "timeMonth": 1715,
     "timeYear": 1753,
     "dailyMinutesDown": {
-      "2025-01-31": 67,
+      "2025-02-01": 71,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -419,8 +421,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
@@ -429,7 +430,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fours.app.ico",
     "slug": "som-api-auth",
     "status": "down",
-    "uptime": "19.11%",
+    "uptime": "19.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -440,7 +441,8 @@
     "timeMonth": 0,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-01-31": 68,
+      "2025-02-01": 71,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -803,8 +805,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
@@ -813,7 +814,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fours.app.ico",
     "slug": "som-api-cis-project",
     "status": "down",
-    "uptime": "19.11%",
+    "uptime": "19.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -824,7 +825,8 @@
     "timeMonth": 0,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-01-31": 68,
+      "2025-02-01": 71,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -1187,8 +1189,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
@@ -1197,18 +1198,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/konga.fours.app.ico",
     "slug": "som-konga",
     "status": "down",
-    "uptime": "54.44%",
+    "uptime": "54.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.86%",
+    "uptimeYear": "34.58%",
     "time": 838,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2025-01-31": 68,
+      "2025-02-01": 71,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
