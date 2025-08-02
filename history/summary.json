@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.mattex.com.hk.ico",
     "slug": "production-emat-support",
     "status": "up",
-    "uptime": "73.87%",
+    "uptime": "73.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.61%",
-    "time": 438,
-    "timeDay": 320,
-    "timeWeek": 473,
-    "timeMonth": 446,
+    "uptimeYear": "49.34%",
+    "time": 439,
+    "timeDay": 373,
+    "timeWeek": 346,
+    "timeMonth": 447,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2025-08-01": 107,
+      "2025-08-02": 84,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -215,10 +216,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
-    "timeDay": 334,
-    "timeWeek": 440,
-    "timeMonth": 379,
-    "timeYear": 418,
+    "timeDay": 274,
+    "timeWeek": 430,
+    "timeMonth": 377,
+    "timeYear": 416,
     "dailyMinutesDown": {}
   },
   {
@@ -227,18 +228,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/som.mattex.com.hk.ico",
     "slug": "som-web-portal",
     "status": "up",
-    "uptime": "3.84%",
+    "uptime": "3.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1751,
-    "timeDay": 1390,
-    "timeWeek": 1794,
-    "timeMonth": 1781,
-    "timeYear": 1753,
+    "time": 1754,
+    "timeDay": 2507,
+    "timeWeek": 1824,
+    "timeMonth": 1821,
+    "timeYear": 1755,
     "dailyMinutesDown": {
-      "2025-08-01": 107,
+      "2025-08-02": 84,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -601,8 +603,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   },
   {
@@ -611,7 +612,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fours.app.ico",
     "slug": "som-api-auth",
     "status": "down",
-    "uptime": "14.17%",
+    "uptime": "14.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -620,9 +621,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 628,
+    "timeYear": 627,
     "dailyMinutesDown": {
-      "2025-08-01": 107,
+      "2025-08-02": 84,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -985,8 +987,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   },
   {
@@ -995,18 +996,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fours.app.ico",
     "slug": "som-api-cis-project",
     "status": "down",
-    "uptime": "14.17%",
+    "uptime": "14.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 806,
+    "time": 807,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 822,
+    "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-08-01": 107,
+      "2025-08-02": 84,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1369,8 +1371,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   },
   {
@@ -1379,7 +1380,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/konga.fours.app.ico",
     "slug": "som-konga",
     "status": "down",
-    "uptime": "40.37%",
+    "uptime": "40.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1390,7 +1391,8 @@
     "timeMonth": 0,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2025-08-01": 107,
+      "2025-08-02": 84,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1753,8 +1755,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   }
 ]
